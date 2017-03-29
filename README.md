@@ -8,7 +8,7 @@ This project consisted of building predictive models to analyze satellite-based 
 
 ## Data Visualization 
 
-![image](https://cloud.githubusercontent.com/assets/14288364/24432632/6d42c7ea-13d8-11e7-9889-7c0cdb9484f2.png)
+![image](https://cloud.githubusercontent.com/assets/14288364/24432864/bbc8dfde-13d9-11e7-8859-b26189246fd8.png)
 
 
-![image](https://cloud.githubusercontent.com/assets/14288364/24432664/970d1d64-13d8-11e7-9318-d3316d719cb0.png)
+![image](https://cloud.githubusercontent.com/assets/14288364/24432845/a6c5b6b6-13d9-11e7-9813-828e3320c496.png)
